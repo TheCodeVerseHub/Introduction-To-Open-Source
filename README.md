@@ -9,7 +9,7 @@
   - Then open your first PR: [docs/how-to-create-pr.md](docs/how-to-create-pr.md)
 
 ## What is open source?
-- Open source is code that is public
+- Open source is publicly available code
 - People can read it, learn from it, and improve it
 - You can contribute small changes and get them merged
 
