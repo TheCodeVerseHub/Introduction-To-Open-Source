@@ -8,7 +8,7 @@
 ## Before You Start
 - Be kind and respectful
 - Ask questions if you’re stuck
-- Small changes are welcome (typos, docs, examples)
+- Small changes are welcome (typo fixes, docs, examples)
 
 ## Step-by-step: Your First Pull Request
 
