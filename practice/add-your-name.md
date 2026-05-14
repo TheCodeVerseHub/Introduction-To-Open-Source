@@ -10,6 +10,7 @@
   - `- Your Name (GitHub: @username)`
 
 ## Add your name here
+ shrutinath(@shrutinath93)
 - Example Person (GitHub: @example)
 
 ## Tips
