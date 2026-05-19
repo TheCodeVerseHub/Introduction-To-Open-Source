@@ -1,6 +1,6 @@
 # How to Push to GitHub (Template)
 
-## What is push?
+## What is pushing?
 - Push sends your commits to GitHub
 
 ## Steps

@@ -1,6 +1,6 @@
 # How to Clone a Repository (Template)
 
-## What is clone?
+## What is cloning?
 - Clone means downloading a repo to your computer
 
 ## Steps
