@@ -11,7 +11,7 @@
 
 ## Add your name here
 - shrutinath(@shrutinath93)
-- Example Person (GitHub: @example)
+- krishnasharma(@KrisGod21)
 
 ## Tips
 - After editing, run:
