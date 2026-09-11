@@ -7,7 +7,7 @@
 - First push for a new branch:
   - `git push -u origin <branch-name>`
 
-Example:
+## Example
 - `git push -u origin my-first-branch`
 
 ## Next
